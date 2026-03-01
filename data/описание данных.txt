@@ -1,0 +1,20 @@
+Описание полей
+Loan ID: уникальный идентификатор кредита;
+Customer ID: уникальный идентификатор клиента;
+Loan Status: категориальный признак - кредит погашен ("Fully Paid") или не погашен ("Charged Off");
+Current Loan Amount: размер кредита;
+Term: срок кредита;
+Credit Score: кредитный рейтинг - число от 0 до 800;
+Years in current job: стаж на текущем месте работы;
+Home Ownership: статус недвижимости - собственность ("Own"), ипотека ("Home Mortgage") или аренда ("Rent");
+Annual Income: годовой доход;
+Purpose: цель кредита;
+Monthly Debt: размер ежемесячного платежа по текущим кредитам;
+Years of Credit History: количество лет кредитной истории;
+Months since last delinquent: количество месяцев с последнего нарушения условий кредита;
+Number of Open Accounts: количество открытых кредитных карт;
+Number of Credit Problems: количество кредитных проблем;
+Current Credit Balance: суммарный текущий долг;
+Maximum Open Credit: максимальный кредитный лимит из всех источников;
+Bankruptcies: количество банкротств;
+Tax Liens: количество нарушений налогового законодательства.
