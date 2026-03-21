@@ -1,2 +1,2 @@
 # ml-portfolio
-3 end-to-end ML проектов: Credit Scoring, RecSys, Object Detection.
+3 end-to-end ML проектов: Credit Scoring, RecSys, Image Classification
